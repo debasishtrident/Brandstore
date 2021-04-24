@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "378616181497",
+    "firebase_url": "https://cornerstorex.firebaseio.com",
+    "project_id": "cornerstorex",
+    "storage_bucket": "cornerstorex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378616181497:android:ab5161aea6ea2b6ac3e828",
+        "android_client_info": {
+          "package_name": "com.example.brandstorex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378616181497-0pi3i0ul54l1rpe8cqhr8p8c1n4getk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brandstorex",
+            "certificate_hash": "a7963b88f836b0d0f722f7c4af94ee5698ffd26d"
+          }
+        },
+        {
+          "client_id": "378616181497-s6ldcin2tt6i43c62as9vqicit3c248g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPdL-bFq0-CaJ4SLEuHNtD951NJDj6T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378616181497-s6ldcin2tt6i43c62as9vqicit3c248g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378616181497-lea7kuj5tplbejm0hinqod91r6if4l3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tina.cornerstorex"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378616181497:android:1fc9def31c2a400bc3e828",
+        "android_client_info": {
+          "package_name": "com.panda.brandstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378616181497-ado3u784jbkghivdujm5p12rtjv8vu5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panda.brandstore",
+            "certificate_hash": "28a08cc6b03faa114348aeddc8180aae2fdeb096"
+          }
+        },
+        {
+          "client_id": "378616181497-s6ldcin2tt6i43c62as9vqicit3c248g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPdL-bFq0-CaJ4SLEuHNtD951NJDj6T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378616181497-s6ldcin2tt6i43c62as9vqicit3c248g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378616181497-lea7kuj5tplbejm0hinqod91r6if4l3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tina.cornerstorex"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378616181497:android:b1fa2102935396dcc3e828",
+        "android_client_info": {
+          "package_name": "com.tina.thetmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378616181497-c1rmj0rturfiui9rmbpt5p6ij6ehblio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tina.thetmart",
+            "certificate_hash": "e955196fc886cc0cc6b30aca9ccecdb10353d55f"
+          }
+        },
+        {
+          "client_id": "378616181497-s6ldcin2tt6i43c62as9vqicit3c248g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPdL-bFq0-CaJ4SLEuHNtD951NJDj6T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378616181497-s6ldcin2tt6i43c62as9vqicit3c248g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378616181497-lea7kuj5tplbejm0hinqod91r6if4l3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tina.cornerstorex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
